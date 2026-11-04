@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.log
+
+# MaxMind GeoLite2 country database (downloaded on the server, not committed)
+data/*.mmdb
+data/*.mmdb.download
